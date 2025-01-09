@@ -2,6 +2,8 @@
 
 > La idea de este proyecto es crear una página web sostenible, es decir, que tanto su mantenimiento como su diseño tengan en cuenta una perspectiva sostenible para ahorrar el consumo de energía en la medida de lo posible, así como para emplear energías renovables.
 
+
+fecha: 27 febrero montado el servidor.
 <br>
 
 ## TEMÁTICA DE LA PÁGINA
