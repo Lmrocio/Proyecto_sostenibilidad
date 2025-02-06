@@ -5,7 +5,8 @@
 > y cargar la última imagen Raspbian en una tarjeta MicroSD.
 
 
-https://pedropablomoral.com/raspberrypi/proyectos/servidor-casero/
+https://pedropablomoral.com/raspberrypi/proyectos/servidor-casero/     --> paso: MariaDB (seguridad comando)
+https://internetpasoapaso.com/instalar-servidor-web-en-raspberry-pi/
 
 ## ¿QUÉ NECESITAMOS?
 
