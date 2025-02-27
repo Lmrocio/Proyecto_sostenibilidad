@@ -19,10 +19,10 @@ https://internetpasoapaso.com/instalar-servidor-web-en-raspberry-pi/
 - Teclado (Para el proceso de instalación)
 - Adaptador micro HDMI a HDMI (Para el proceso de instalación)
 
-# Servidor Web en Raspberry Pi 4 con Flask (Estructura de Carpeta para Página Web)
 
-Esta guía explica cómo configurar Flask en una Raspberry Pi con una estructura organizada para servir una página web.
 
+---
+# Servidor Web en Raspberry Pi 4 con Flask 
 ---
 ## PASOS
 
