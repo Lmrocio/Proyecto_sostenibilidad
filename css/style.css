@@ -265,3 +265,43 @@ section {
     color: #a5e2a5;
 }
 
+
+.green-main {
+    padding: 3rem;
+    max-width: 1000px;
+    margin: 3rem auto;
+    background-color: var(--beige-claro);
+    border-radius: 1rem;
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.1);
+}
+.green-main section {
+    margin-bottom: 2.5rem;
+}
+
+.green-main h2,
+.green-main h3 {
+    color: var(--verde-principal);
+    margin-bottom: 1rem;
+}
+
+.green-intro p,
+.green-conclusion p,
+.green-ods ul {
+    font-size: 1.1rem;
+    line-height: 1.8;
+    color: var(--texto-oscuro);
+}
+
+.green-ods ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+.green-ods li {
+    background-color: #ffffff;
+    border-left: 6px solid var(--verde-oliva);
+    padding: 1rem;
+    margin-bottom: 1rem;
+    border-radius: 0.5rem;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
