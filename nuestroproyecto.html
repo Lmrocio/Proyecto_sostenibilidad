@@ -83,5 +83,14 @@
       </div>
     </div>
   </footer>
+
+  <script>
+    const botonEco = document.querySelector('.eco-toggle');
+    const body = document.body;
+
+    botonEco.addEventListener('click', () => {
+      body.classList.toggle('modo-eco');
+    });
+  </script>
 </body>
 </html>
