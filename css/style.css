@@ -359,3 +359,95 @@ section {
     line-height: 1.7;
     color: var(--texto-oscuro);
 }
+
+main.implementaciones {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.implementaciones {
+    background-color: var(--beige-claro);
+    padding: 3rem 2rem;
+    max-width: 1000px;
+    margin: 0 auto;
+    border-radius: 1rem;
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+    gap: 2.5rem;
+}
+
+.implementaciones__intro {
+    text-align: center;
+}
+
+.implementaciones__title {
+    font-size: 2rem;
+    color: var(--verde-principal);
+    margin-bottom: 1rem;
+    position: relative;
+}
+
+.implementaciones__title::after {
+    content: "";
+    display: block;
+    width: 60px;
+    height: 4px;
+    background-color: var(--verde-lima);
+    margin: 0.5rem auto 0;
+    border-radius: 2px;
+}
+
+.implementaciones__text {
+    font-size: 1.15rem;
+    color: var(--texto-oscuro);
+    line-height: 1.7;
+    background-color: var(--beige-oscuro);
+    padding: 1.2rem;
+    border-radius: 1rem;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.implementaciones__detalle {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.implementaciones__bloque {
+    background-color: var(--blanco);
+    border-left: 6px solid var(--verde-oliva);
+    padding: 1.5rem;
+    border-radius: 1rem;
+    box-shadow: 0 6px 14px rgba(0, 0, 0, 0.08);
+    transition: transform 0.2s ease;
+}
+
+.implementaciones__bloque:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.12);
+}
+
+.implementaciones__subtitle {
+    font-size: 1.3rem;
+    color: var(--verde-principal);
+    margin-bottom: 0.8rem;
+    border-bottom: 2px solid var(--verde-lima);
+    padding-bottom: 0.3rem;
+}
+
+.implementaciones__bloque p {
+    font-size: 1rem;
+    line-height: 1.6;
+    color: var(--texto-oscuro);
+}
+
+.implementaciones__conclusion p {
+    font-size: 1.1rem;
+    color: var(--texto-oscuro);
+    background-color: var(--beige-oscuro);
+    padding: 1.5rem;
+    border-radius: 1rem;
+    text-align: center;
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.1);
+}
