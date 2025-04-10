@@ -305,3 +305,57 @@ section {
     border-radius: 0.5rem;
     box-shadow: 0 2px 8px rgba(0,0,0,0.08);
 }
+
+
+.retos-main {
+    padding: 3rem;
+    max-width: 1000px;
+    margin: 3rem auto;
+    background-color: var(--beige-claro);
+    border-radius: 1rem;
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.1);
+}
+
+.retos-main h2 {
+    text-align: center;
+    color: var(--verde-principal);
+    font-size: 2rem;
+    margin-bottom: 2rem;
+    position: relative;
+}
+
+.retos-main h2::after {
+    content: "";
+    display: block;
+    width: 60px;
+    height: 4px;
+    background-color: var(--verde-lima);
+    margin: 0.8rem auto 0;
+    border-radius: 2px;
+}
+
+.retos-section {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.reto {
+    background-color: #ffffff;
+    border-radius: 1rem;
+    padding: 1.5rem 2rem;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    border-left: 6px solid var(--verde-principal);
+}
+
+.reto h3 {
+    font-size: 1.3rem;
+    color: var(--verde-oliva);
+    margin-bottom: 0.8rem;
+}
+
+.reto p {
+    font-size: 1.05rem;
+    line-height: 1.7;
+    color: var(--texto-oscuro);
+}
