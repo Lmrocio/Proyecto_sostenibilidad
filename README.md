@@ -21,6 +21,10 @@
 - Sensibilización: Los estudiantes pueden investigar y añadir contenido sobre el impacto del consumo digital.
 
 
+## INFORMACIÓN SOBRE EL SERVIDOR
+
+[Información](Servidor.md)
+
 ## RÚBRICA
 
 ### 1. Identifica los aspectos ambientales, sociales y de gobernanza (AG) relativos a la sostenibilidad teniendo en cuenta el concepto de desarrollo sostenible y los marcos internacionales que contribuyen a su consecución.
